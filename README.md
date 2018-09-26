@@ -1,0 +1,2 @@
+# diantv
+installApp
